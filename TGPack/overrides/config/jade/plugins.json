@@ -57,9 +57,6 @@
   "tombstone": {
     "graves": true
   },
-  "immersiveengineering": {
-    "multiblock_icon": true
-  },
   "delightful": {
     "crop_progress": true,
     "pie_icons": true
@@ -85,6 +82,14 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
+  },
+  "portabletanks": {
+    "portable_tank_component": true
+  },
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
   },
   "waystones": {
     "waystone": true
