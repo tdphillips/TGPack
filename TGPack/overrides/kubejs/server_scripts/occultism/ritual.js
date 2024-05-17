@@ -75,7 +75,7 @@ ServerEvents.recipes((event) => {
             spirit_job_type: 'occultism:trade_otherstone_t1',
             entity_to_summon: 'occultism:foliot',
             ritual_dummy: 'occultism:ritual_dummy/summon_foliot_otherstone_trader',
-            ingredients: ['minecraft:stone', 'minecraft:granite', 'minecraft:diorite', 'minecraft:andesite'],
+            inputs: ['minecraft:stone', 'minecraft:granite', 'minecraft:diorite', 'minecraft:andesite'],
             result: 'occultism:jei_dummy/none',
             id: 'occultism:ritual/summon_foliot_otherstone_trader'
         },
@@ -88,7 +88,7 @@ ServerEvents.recipes((event) => {
             spirit_job_type: 'occultism:trade_otherworld_saplings_t1',
             entity_to_summon: 'occultism:foliot',
             ritual_dummy: 'occultism:ritual_dummy/summon_foliot_sapling_trader',
-            ingredients: [
+            inputs: [
                 'minecraft:oak_sapling',
                 'minecraft:birch_sapling',
                 'minecraft:spruce_sapling',
