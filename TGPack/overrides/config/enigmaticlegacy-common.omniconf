@@ -610,7 +610,7 @@
     D:OceanStoneXPCostModifier=1.0
 
     # Whether or not it should be allowed to equip multiple spellstones if they are different items, granted player somehow gets more than one spellstone slot. [default: false, synchronized: yes]
-    B:SpellstonesMultiequip=false
+    B:SpellstonesMultiequip=true
 
     # The radius in which Dislocation Ring will collect items. [range: 1 ~ 256, default: 16, synchronized: yes]
     I:SuperMagnetRingRange=16

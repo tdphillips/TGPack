@@ -38,7 +38,7 @@
     I:EnderChestButtonOffsetXCreative=0
 
     # Allows to set offset for Ender Chest button on Y axis. [range: -32768 ~ 32768, default: 0]
-    I:EnderChestButtonOffsetY=0
+    I:EnderChestButtonOffsetY=-75
 
     # Allows to set offset for Ender Chest button on Y axis, for creative inventory specifically. [range: -32768 ~ 32768, default: 0]
     I:EnderChestButtonOffsetYCreative=0
@@ -59,7 +59,7 @@
     I:MagnetRingButtonOffsetXCreative=0
 
     # Allows to set offset for Magnet Effects button on Y axis. [range: -32768 ~ 32768, default: 0]
-    I:MagnetRingButtonOffsetY=0
+    I:MagnetRingButtonOffsetY=-75
 
     # Allows to set offset for Magnet Effects button on Y axis, for creative inventory specifically. [range: -32768 ~ 32768, default: 0]
     I:MagnetRingButtonOffsetYCreative=0
