@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	id: "50990EF3F3AD684E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "56B0FF4CC172D56D"
+		rewards: [{
+			id: "124640C8950854FD"
+			item: "sophisticatedbackpacks:backpack"
+			type: "item"
+		}]
+		tasks: [{
+			id: "71D3A002C25B2F6D"
+			title: "Give Me Stuff"
+			type: "checkmark"
+		}]
+		x: -10.5d
+		y: -3.5d
+	}]
+	title: "Getting Started"
+}

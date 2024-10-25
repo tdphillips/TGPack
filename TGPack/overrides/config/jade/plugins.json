@@ -4,7 +4,6 @@
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
-    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
     "item_storage": true,
@@ -80,11 +79,16 @@
     "equipment_requirement": ""
   },
   "exposure": {
-    "lightroom": true
+    "lightroom": true,
+    "photograph_frame": true
   },
   "delightful": {
     "crop_progress": true,
-    "pie_icons": true
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
   },
   "supplementaries": {
     "hat_stand": true

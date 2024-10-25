@@ -16,7 +16,7 @@
 	#1: Hidden unless holding a mana consuming/restoring item.
 	#2: Always hidden.
 	#Range: 0 ~ 2
-	hudMode = 0
+	hudMode = 1
 	#Change the position of the HUD:
 	#0: Top Left
 	#1: Top Center
@@ -43,5 +43,5 @@
 
 #Mana and Artifice // Help Tips Settings
 [ma_helptips]
-	ma_ritual_tip = ["helptip.mna.pretty_models"]
+	ma_ritual_tip = ["helptip.mna.pretty_models", "helptip.mna.modifier_shift_click"]
 

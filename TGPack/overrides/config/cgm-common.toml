@@ -132,3 +132,8 @@
 		#Range: > 1
 		maxCount = 10
 
+	#Properties relating to cross-mod compatibilities
+	[common.compatibilities]
+		#When enabled, you'll need the "Marksman" enchantment enchanted for a backpack from backpacked mod to directly reload from the backpack.
+		backpackedNeedsEnchantment2ReloadFromBackpack = true
+

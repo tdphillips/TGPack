@@ -12,16 +12,6 @@ ServerEvents.recipes(event => {
         type: r_type,
         ingredients: std_ingredients,
         catalyst: {
-            item: "primalmagick:marble_enchanted",
-        },
-        result: {
-            item: "primalmagick:marble_raw",
-        },
-    });
-    event.custom({
-        type: r_type,
-        ingredients: std_ingredients,
-        catalyst: {
             item: "minecraft:polished_deepslate",
         },
         result: {
